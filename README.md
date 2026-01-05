@@ -1,12 +1,11 @@
 ## Hi there 👋
-#我是一只Vibe Coding的小资历
-#喜欢各种瞎鼓捣
+我是一只Vibe Coding的小资历，喜欢各种瞎鼓捣
+I'm a junior at Vibe Coding who loves tinkering with all sorts of stuff.
 
 ![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream&theme=tokyonight&show_icons=true&commits_year=2026) 
 
 ![Top Langs](https://readme.wzkws116.xyz/api/top-langs/?username=Hurt-In-Dream&langs_count=4&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hurt-In-Dream&left_color=green&right_color=red)
 <!--
 **Hurt-In-Dream/Hurt-In-Dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
