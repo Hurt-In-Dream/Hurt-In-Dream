@@ -1,4 +1,6 @@
 ## Hi there 👋
+#我是一只Vibe Coding的小资历
+#喜欢各种瞎鼓捣
 
 ![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream&theme=tokyonight&show_icons=true&commits_year=2026) 
 
