@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://readme.wzkws116.xyz/api/top-langs/?username=3323223659&langs_count=8&theme=tokyonight&commits_year=2026)
-![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream&theme=tokyonight) 
+![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream&theme=tokyonight&show_icons=true&commits_year=2026) 
+![Top Langs](https://readme.wzkws116.xyz/api/top-langs/?username=3323223659&langs_count=8&theme=tokyonight)
 <!--
 **Hurt-In-Dream/Hurt-In-Dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
