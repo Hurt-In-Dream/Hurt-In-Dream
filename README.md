@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream)
+![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream&langs_count=8)
 
 <!--
 **Hurt-In-Dream/Hurt-In-Dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
