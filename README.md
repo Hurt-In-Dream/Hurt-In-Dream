@@ -1,7 +1,7 @@
 ## Hi there 👋
-我是一只Vibe Coding的小资历，喜欢各种瞎鼓捣
+一只Vibe Coding的小资历
 
-I'm a junior at Vibe Coding who loves tinkering with all sorts of stuff.
+Vibe Coding
 
 ![Anurag's GitHub stats](https://readme.wzkws116.xyz/api?username=Hurt-In-Dream&theme=tokyonight&show_icons=true&commits_year=2026) 
 
